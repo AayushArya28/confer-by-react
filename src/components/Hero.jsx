@@ -3,7 +3,7 @@ import './Hero.css';
 
 function Hero() {
     return (
-        <div className="hero-container">
+        <div className="hero-container h-[70vh]  mt-[70vh]">
             {/* BIT Mesra Section */}
             <div className="hero-section">
                 <h2 className="heading">BIT Mesra, Ranchi</h2>

@@ -6,8 +6,8 @@ function Nav() {
   return (
     <div>
       {/* Upper section with logo */}
-      <div className="upper">
-        <img id="upper-logo" src={Nav_Logo} alt="BIT Mesra Logo" />
+      <div className="flex justify-center mt-[70vh]">
+        <img className="h-[20vh] w-[22vw]" src={Nav_Logo} alt="BIT Mesra Logo" />
       </div>
 
       {/* Navigation bar */}

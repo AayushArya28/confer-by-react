@@ -7,11 +7,11 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="app-container">
+    <>
       <Nav />
       <Photobanner />
       <Hero />
-    </div>
+    </>
   );
 }
 

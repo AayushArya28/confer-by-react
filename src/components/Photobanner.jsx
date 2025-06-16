@@ -4,7 +4,7 @@ import './Header.css';
 
 function Photobanner() {
     return (
-        <div id="photobanner">
+        <div id="photobanner h-[70vh]">
             <div className="banner-overlay">
                 <img src={BannerImage} alt="Banner" className="banner-image active" />
                 <div className="overlay-text">
